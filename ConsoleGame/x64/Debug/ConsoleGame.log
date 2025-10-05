@@ -1,0 +1,12 @@
+﻿  MatrixRain.cpp
+D:\Mycode\C++_code\ConsoleGame\ConsoleGame\olcConsoleGameEngine.h(759,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MatrixRain.cpp”)
+  
+D:\Mycode\C++_code\ConsoleGame\ConsoleGame\olcConsoleGameEngine.h(1099,31): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“MatrixRain.cpp”)
+  
+D:\Mycode\C++_code\ConsoleGame\ConsoleGame\olcConsoleGameEngine.h(1196,4): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“olcConsoleGameEngine *”
+  (编译源文件“MatrixRain.cpp”)
+  
+D:\Mycode\C++_code\ConsoleGame\ConsoleGame\MatrixRain.cpp(50,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  ConsoleGame.vcxproj -> D:\Mycode\C++_code\ConsoleGame\x64\Debug\ConsoleGame.exe
